@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Ben Lieberman",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer", "Novelist" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/bhlieberman",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/ben_lieberman",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "self.jpg"
     },
     "skills": {
       "icons": [

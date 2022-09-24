@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #ddf8e8;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -72,12 +72,12 @@ header .nav {
 	z-index: -500;
 	border-top: 5px solid #696969;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #38618C;
 	color: white;
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#b8b8ff, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -86,7 +86,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #ddf8e8;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #b8b8ff;
 	overflow: hidden;
 }
 
@@ -129,7 +129,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: #35a7ff;
 	text-align: center;
 }
 
@@ -178,7 +178,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: #35a7ff;
 	text-align: center;
 }
 
@@ -257,7 +257,7 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
-	color: black;
+	color: #35a7ff;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -353,7 +353,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #38618C;
 	padding-bottom: 5%;
 }
 
@@ -368,7 +368,7 @@ header h1 {
 	-moz-transition: all ease 0.5s;
 	transition: all ease 0.5s;
 	opacity: 0;
-	background-color: rgba(51, 51, 51, 0.9);
+	background-color: #35a7ff;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -389,7 +389,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #35a7ff;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +414,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #35a7ff;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
